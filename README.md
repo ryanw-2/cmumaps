@@ -4,7 +4,7 @@
 
 Navigating the demands of Carnegie Mellon can be overwhelming, with students often feeling the pressure of intense competition and tight schedules. This can lead to burnout and neglect of essential aspects like socializing, proper meals, and time management.
 
-CMU Maps addresses this gap with a responsive React-based application that provides **real-time navigation**, **event listings**, **live room availability**, and **calendar integration**—all accessible through a clean, student-centered interface.
+CMU Maps addresses this gap with a responsive React-based application that provides **real-time navigation**, **event listings**, **live room availability**, and **calendar integration** through a clean, student-centered interface.
 
 ![Hero](Front_Cover.jpg)
 
